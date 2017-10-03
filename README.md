@@ -1,5 +1,5 @@
 # DPC-100-easy
-sleep cycles
+Sleep Cycles
 
 The human body goes through 90 minute sleep cycles during the night, and you feel more refreshed if you wake up at the end of a sleep cycle than if you wake up during a sleep cycle. The challenge is to make a program that takes a wake-up time and outputs the possible times to fall asleep so that you will wake up at the end of a sleep cycle.
 
